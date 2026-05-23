@@ -1,13 +1,15 @@
 # Mushab Mahin M A
 
-AI & Data Science student focused on building production-oriented AI systems, computer vision applications, and scalable full-stack software.
+AI & Data Science student focused on building real-world AI systems, computer vision applications, and full-stack software.
+
+Interested in building practical systems that combine AI with real-world applications.
 
 Currently exploring:
 
 * Machine Learning Engineering
 * Real-Time AI Systems
 * Computer Vision
-* Backend Scalability
+* Backend Development
 * Full Stack Development
 
 ---
@@ -79,8 +81,8 @@ Embedded system capable of detecting accidents and sending GPS-based emergency a
 
 * Solving DSA problems consistently
 * Improving backend engineering skills
-* Exploring scalable AI deployment workflows
-* Building internship-ready production projects
+* Exploring AI deployment workflows
+* Building internship-ready projects
 
 ---
 
