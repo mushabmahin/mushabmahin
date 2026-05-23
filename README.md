@@ -1,53 +1,92 @@
-👋 Hi, I’m Mushab Mahin
+# Mushab Mahin M A
 
-🎓 3rd Year B.Tech Student in Artificial Intelligence & Data Science
-💡 Passionate about building practical tech solutions and learning by doing
-🚀 Aspiring AI / Data Science Intern
+AI & Data Science student focused on building production-oriented AI systems, computer vision applications, and scalable full-stack software.
 
-🔍 About Me
+Currently exploring:
 
-📊 Interested in AI, Machine Learning & Data Analytics
+* Machine Learning Engineering
+* Real-Time AI Systems
+* Computer Vision
+* Backend Scalability
+* Full Stack Development
 
-💻 Love working on real-world projects and academic applications
+---
 
-🧠 Strong fundamentals in Programming, Data Structures & Algorithms
+## Tech Stack
 
-🌱 Currently exploring Web + AI integration projects
+### Languages
 
-🛠️ Tech Stack
+* Python
+* JavaScript
+* R
+* C
 
-Languages: Python, C, C++, R
+### Frameworks & Tools
 
-AI / DS: Machine Learning, Data Analysis, Statistics
+* React.js
+* Node.js
+* Flask
+* TensorFlow
+* OpenCV
+* PostgreSQL
+* Git & GitHub
 
-Web: HTML, CSS, JavaScript
+### Areas of Interest
 
-Tools: Git, GitHub, VS Code
+* Machine Learning
+* NLP
+* Computer Vision
+* Real-Time Systems
+* AI-Powered Applications
 
-📌 Projects
+---
 
-🪑 Automated Exam Seating Allotment System
-Web-based system to automatically allocate exam hall seating using student data.
+## Featured Projects
 
-🤖 Academic AI & Robotics Mini Projects
-Sensor-based systems, data-driven logic, and exam-oriented implementations.
+### INSIDRA — AI Insider Threat Detection System
 
-(More projects coming soon 🚧)
+Machine learning system for detecting insider threats using behavioral drift analysis, anomaly detection, and explainable AI alerts.
 
-🎯 Current Goals
+**Tech:** Python, Flask, TensorFlow, PostgreSQL, React.js
 
-📈 Build strong internship-ready projects
+---
 
-🧑‍💻 Improve problem-solving & DSA
+### Voca AI — Speech Recognition & Voice Command Platform
 
-🤝 Contribute to open-source projects
+Voice-enabled platform supporting speech-to-text processing and customizable command execution with multilingual support.
 
-🎓 Prepare for AI/Data Science roles
+**Tech:** React.js, Node.js, Web Speech API
 
-📫 Connect With Me
+---
 
-💼 GitHub: https://github.com/mushabmahin
+### THIRD EYE — Smart Energy Management System
 
-📧 Email: mushabmahin777@gmail.com
+Computer vision-based CCTV monitoring system for automated energy optimization using human presence detection.
 
-🔗 LinkedIn: www.linkedin.com/in/mushabmahin
+**Tech:** Python, OpenCV
+
+---
+
+### Smart Helmet Accident Detection System
+
+Embedded system capable of detecting accidents and sending GPS-based emergency alerts in real time.
+
+**Tech:** Arduino, MPU6050, GPS Neo-7M, GSM SIM800L
+
+---
+
+## Current Focus
+
+* Solving DSA problems consistently
+* Improving backend engineering skills
+* Exploring scalable AI deployment workflows
+* Building internship-ready production projects
+
+---
+
+## Connect
+
+* Portfolio: https://mushab-mahin.vercel.app
+* GitHub: https://github.com/mushabmahin
+* LinkedIn: https://linkedin.com/in/mushabmahin
+* Email: [mushabmahin777@gmail.com](mailto:mushabmahin777@gmail.com)
