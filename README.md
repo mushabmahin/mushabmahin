@@ -93,23 +93,7 @@ Embedded system for accident detection with GPS-based emergency alerts.
 
 ---
 
-## GitHub Analytics
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mushabmahin&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=mushabmahin&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<div align="center">
-
-<img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=mushabmahin&theme=tokyo-night&hide_border=true&area=true" />
-
-</div>
-
----
 
 ## Connect
 
