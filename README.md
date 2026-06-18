@@ -14,7 +14,7 @@ Building real-world AI systems, computer vision applications, and scalable softw
 
 ## About
 
-Third-year BTech student in Artificial Intelligence and Data Science focused on building practical AI systems and full-stack applications.
+Fourth-year BTech student in Artificial Intelligence and Data Science focused on building practical AI systems and full-stack applications.
 
 Currently exploring:
 
@@ -31,7 +31,7 @@ Currently exploring:
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,c,r" />
+  <img src="https://skillicons.dev/icons?i=python,js,c,r,cpp" />
 </p>
 
 ### Frameworks & Tools
